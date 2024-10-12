@@ -1,2 +1,2 @@
 # CCIBSOC.github.io
-Hosting the social webpage
+This is a live webpage for running the page
